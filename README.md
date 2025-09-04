@@ -17,4 +17,4 @@ This project was developed as a **final exam** for the **first year** of the *Vi
 - **Mouse wheel** → Zoom in/out  
 
 ## Showcase
-...
+![output](https://github.com/user-attachments/assets/471a9e50-0695-400d-a49e-4da08fcc87c7)
